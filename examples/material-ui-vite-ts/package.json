@@ -13,6 +13,7 @@
     "@emotion/styled": "latest",
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
+    "add-to-calendar-button-react": "^2.8.0",
     "react": "latest",
     "react-dom": "latest"
   },
